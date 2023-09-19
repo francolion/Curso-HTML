@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: rgb(88, 38, 88);
+}
+#title {
+  color: #c0c0c0;
+}
+.div {
+  padding-top: 3px;
+  margin-left: 25%;
+  background-color: black;
+  width: 50%;
+  border-radius: 6px;
+}
