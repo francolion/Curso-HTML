@@ -1,0 +1,27 @@
+body {
+  background-image: url(../assets/esports\ background.jpg);
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#h1 {
+  text-align: center;
+}
+h1 {
+  color: whitesmoke;
+  font-family: Poppins, sans-serif;
+  text-shadow: 3px 3px 10px rgb(206, 65, 199);
+}
+.container {
+  display: flex;
+}
+.p {
+  color: rgb(224, 128, 48);
+  padding-top: 50px;
+  font-family: Poppins, sans-serif;
+
+  width: 25%;
+}
+.video {
+  margin: 0px 0px 0px 60px;
+}
